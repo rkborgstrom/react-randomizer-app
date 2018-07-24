@@ -1,0 +1,11 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: auto;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
